@@ -1,0 +1,501 @@
+OrderID,Date,Category,ProductName,OriginalPrice,Discount%,SalePrice,Quantity,TotalSale,PaymentMethod,Region
+ORD1000,12-10-2024,Electronics,Smartphone,63598,30,44518,2,89036,Credit Card,Mumbai
+ORD1001,11-10-2024,Furniture,Table,3520,10,3168,1,3168,Credit Card,Mumbai
+ORD1002,13-10-2024,Furniture,Table,6611,40,3966,5,19830,,Jaipur
+ORD1003,10-10-2024,Grocery,Cooking Oil 5L,918,20,734,3,2202,UPI,Delhi
+ORD1004,11-10-2024,Electronics,Headphones,9027,50,4513,1,4513,Cash on Delivery,Delhi
+ORD1005,09-10-2024,Grocery,Coffee 200g,298,10,268,1,268,Credit Card,Jaipur
+ORD1006,08-10-2024,Beauty,Face Cream,1228,30,859,2,1718,Debit Card,Bangalore
+ORD1007,10-10-2024,Electronics,Headphones,4303,50,2151,2,4302,Credit Card,Kolkata
+ORD1008,09-10-2024,Fashion,Shoes,4156,10,3740,2,7480,UPI,Jaipur
+ORD1009,10-10-2024,Furniture,Bookshelf,5077,20,4061,4,16244,Cash on Delivery,Hyderabad
+ORD1010,08-10-2024,Furniture,Table,10019,50,5009,4,20036,Debit Card,Mumbai
+ORD1011,10-10-2024,Electronics,Smartphone,56120,20,44896,4,179584,UPI,Kolkata
+ORD1012,09-10-2024,Furniture,Chair,2438,50,1219,3,3657,Debit Card,Delhi
+ORD1013,12-10-2024,Grocery,Coffee 200g,590,20,472,5,2360,UPI,Jaipur
+ORD1014,09-10-2024,Fashion,Jeans,1661,50,830,5,4150,UPI,Chennai
+ORD1015,12-10-2024,Grocery,Rice 5kg,309,20,247,5,1235,UPI,Delhi
+ORD1016,11-10-2024,Fashion,T-Shirt,975,40,585,5,2925,Credit Card,Bangalore
+ORD1017,12-10-2024,Furniture,Bookshelf,8151,20,6520,3,19560,Cash on Delivery,Hyderabad
+ORD1018,08-10-2024,Fashion,T-Shirt,365,30,255,1,255,,Chennai
+ORD1019,12-10-2024,Electronics,Smartphone,36654,10,32988,5,164940,Credit Card,Bangalore
+ORD1020,07-10-2024,Furniture,Bookshelf,6372,20,5097,4,20388,Cash on Delivery,Mumbai
+ORD1021,09-10-2024,Beauty,Perfume,1021,10,918,1,918,Cash on Delivery,Hyderabad
+ORD1022,08-10-2024,Furniture,Table,5296,40,3177,2,6354,Debit Card,Kolkata
+ORD1023,13-10-2024,Furniture,Chair,1914,50,957,1,957,UPI,Jaipur
+ORD1024,13-10-2024,Beauty,Shampoo,368,40,220,1,220,Cash on Delivery,Bangalore
+ORD1025,08-10-2024,Furniture,Bookshelf,8385,40,5031,2,10062,Credit Card,Bangalore
+ORD1026,11-10-2024,Grocery,Rice 5kg,301,50,150,4,600,Credit Card,Delhi
+ORD1027,07-10-2024,Fashion,Jeans,1491,50,745,2,1490,UPI,Chennai
+ORD1028,12-10-2024,Grocery,Rice 5kg,571,20,456,3,1368,Cash on Delivery,Mumbai
+ORD1029,11-10-2024,Electronics,Smartphone,45034,50,22517,5,112585,UPI,Delhi
+ORD1030,11-10-2024,Electronics,Smartphone,39217,30,27451,2,54902,Cash on Delivery,Jaipur
+ORD1031,07-10-2024,Furniture,Chair,3952,10,3556,2,7112,Debit Card,Delhi
+ORD1032,13-10-2024,Fashion,Shoes,4308,20,3446,3,10338,Cash on Delivery,Bangalore
+ORD1033,07-10-2024,Electronics,Smartphone,36859,20,29487,3,88461,Credit Card,Hyderabad
+ORD1034,08-10-2024,Fashion,Shoes,1795,30,1256,5,6280,,Kolkata
+ORD1035,11-10-2024,Electronics,Laptop,67535,20,54028,1,54028,Debit Card,Jaipur
+ORD1036,08-10-2024,Fashion,T-Shirt,1185,20,948,2,1896,Cash on Delivery,Delhi
+ORD1037,10-10-2024,Fashion,Jeans,1652,10,1486,4,5944,UPI,Jaipur
+ORD1038,09-10-2024,Grocery,Rice 5kg,478,10,430,2,860,Cash on Delivery,Bangalore
+ORD1039,08-10-2024,Furniture,Table,11785,30,8249,1,8249,UPI,Bangalore
+ORD1040,11-10-2024,furniture,Table,8663,30,6064,4,24256,UPI,Kolkata
+ORD1041,12-10-2024,Furniture,Bookshelf,8126,20,6500,3,19500,Cash on Delivery,Delhi
+ORD1042,10-10-2024,Electronics,Headphones,6420,50,3210,3,9630,Cash on Delivery,Bangalore
+ORD1043,11-10-2024,Beauty,Perfume,3864,20,3091,5,15455,Debit Card,Kolkata
+ORD1044,12-10-2024,Furniture,Bookshelf,7863,30,5504,4,22016,Cash on Delivery,Kolkata
+ORD1045,13-10-2024,Fashion,Shoes,2194,30,1535,5,7675,Debit Card,Delhi
+ORD1046,13-10-2024,Fashion,T-Shirt,325,10,292,2,584,Cash on Delivery,Chennai
+ORD1047,12-10-2024,Furniture,Chair,4645,40,2787,4,11148,Credit Card,Mumbai
+ORD1048,11-10-2024,Electronics,Laptop,68683,20,54946,5,274730,Cash on Delivery,Delhi
+ORD1049,10-10-2024,Beauty,Perfume,2975,50,1487,5,7435,Debit Card,Jaipur
+ORD1050,08-10-2024,Furniture,Table,5607,40,3364,4,13456,Debit Card,Jaipur
+ORD1051,09-10-2024,Beauty,Perfume,1779,30,1245,4,4980,UPI,Hyderabad
+ORD1052,08-10-2024,Electronics,Smartphone,24884,20,19907,4,79628,Credit Card,Hyderabad
+ORD1053,13-10-2024,Beauty,Shampoo,411,40,246,4,984,UPI,Jaipur
+ORD1054,08-10-2024,Grocery,Cooking Oil 5L,1458,50,729,5,3645,Credit Card,Kolkata
+ORD1055,11-10-2024,beauty,Perfume,1476,40,885,2,1770,UPI,Kolkata
+ORD1056,08-10-2024,Fashion,Jeans,1744,10,1569,3,4707,Cash on Delivery,Bangalore
+ORD1057,11-10-2024,Grocery,Cooking Oil 5L,1116,10,1004,4,4016,UPI,Hyderabad
+ORD1058,07-10-2024,Electronics,Headphones,2159,10,1943,2,3886,Credit Card,Jaipur
+ORD1059,11-10-2024,Electronics,Headphones,5071,40,3042,3,9126,Debit Card,Mumbai
+ORD1060,12-10-2024,Fashion,Jeans,1442,50,721,1,721,Debit Card,Chennai
+ORD1061,12-10-2024,Fashion,T-Shirt,906,20,724,1,724,Debit Card,Jaipur
+ORD1062,12-10-2024,Electronics,Laptop,109827,40,65896,3,197688,UPI,Chennai
+ORD1063,12-10-2024,Electronics,Laptop,87472,40,52483,2,104966,Cash on Delivery,Mumbai
+ORD1064,13-10-2024,Furniture,Table,10616,40,6369,5,31845,Debit Card,Bangalore
+ORD1065,07-10-2024,Beauty,Shampoo,675,50,337,5,1685,Cash on Delivery,Bangalore
+ORD1066,07-10-2024,Grocery,Cooking Oil 5L,1297,30,907,5,4535,Debit Card,Chennai
+ORD1067,13-10-2024,Beauty,Face Cream,1437,20,1149,4,4596,,Kolkata
+ORD1068,12-10-2024,Fashion,Jeans,3382,30,2367,4,9468,Debit Card,Kolkata
+ORD1069,12-10-2024,Grocery,Cooking Oil 5L,1072,10,964,2,1928,Debit Card,Delhi
+ORD1070,13-10-2024,Fashion,Shoes,5466,30,3826,5,19130,Debit Card,Delhi
+ORD1071,09-10-2024,Electronics,Headphones,3573,30,2501,1,2501,UPI,Chennai
+ORD1072,10-10-2024,Beauty,Shampoo,212,50,106,3,318,Cash on Delivery,Kolkata
+ORD1073,12-10-2024,Beauty,Shampoo,266,40,159,4,636,UPI,Chennai
+ORD1074,11-10-2024,Grocery,Rice 5kg,504,10,453,5,2265,Cash on Delivery,Chennai
+ORD1075,11-10-2024,Beauty,Face Cream,908,50,454,4,1816,Debit Card,Chennai
+ORD1076,08-10-2024,Fashion,Shoes,3228,30,2259,1,2259,Credit Card,Mumbai
+ORD1077,09-10-2024,Furniture,Table,7771,10,6993,2,13986,Debit Card,Hyderabad
+ORD1078,08-10-2024,Grocery,Coffee 200g,501,20,400,4,1600,UPI,Chennai
+ORD1079,07-10-2024,Electronics,Smartphone,25873,30,18111,5,90555,Debit Card,Kolkata
+ORD1080,07-10-2024,Grocery,Coffee 200g,476,40,285,4,1140,UPI,Chennai
+ORD1081,12-10-2024,Electronics,Smartphone,30002,50,15001,5,75005,UPI,Jaipur
+ORD1082,10-10-2024,Fashion,Jeans,3125,40,1875,3,5625,Credit Card,Chennai
+ORD1083,10-10-2024,Grocery,Cooking Oil 5L,1282,30,897,1,897,Credit Card,Bangalore
+ORD1084,07-10-2024,Furniture,Chair,5225,10,4702,3,14106,Debit Card,Bangalore
+ORD1085,09-10-2024,Electronics,Headphones,9069,40,5441,1,5441,Credit Card,Chennai
+ORD1086,12-10-2024,electronics,Smartphone,32501,50,16250,2,32500,Debit Card,Kolkata
+ORD1087,10-10-2024,Fashion,Shoes,2797,30,1957,5,9785,UPI,Chennai
+ORD1088,12-10-2024,Beauty,Shampoo,863,20,690,4,2760,Debit Card,Chennai
+ORD1089,11-10-2024,Fashion,Jeans,3257,20,2605,4,10420,Credit Card,Chennai
+ORD1090,09-10-2024,Beauty,Face Cream,1339,30,937,1,937,Debit Card,Hyderabad
+ORD1091,13-10-2024,Fashion,Jeans,3206,40,1923,3,5769,Debit Card,Chennai
+ORD1092,13-10-2024,Fashion,Shoes,3456,50,1728,4,6912,Credit Card,Jaipur
+ORD1093,11-10-2024,Beauty,Face Cream,611,40,366,1,366,Credit Card,Chennai
+ORD1094,12-10-2024,Electronics,Headphones,8986,10,8087,2,16174,Cash on Delivery,Jaipur
+ORD1095,12-10-2024,Grocery,Cooking Oil 5L,1414,10,1272,3,3816,Cash on Delivery,Bangalore
+ORD1096,07-10-2024,Electronics,Headphones,2621,20,2096,3,6288,Credit Card,Hyderabad
+ORD1097,13-10-2024,Electronics,Laptop,61805,30,43263,1,43263,UPI,Bangalore
+ORD1098,07-10-2024,Fashion,Shoes,4875,50,2437,2,4874,Credit Card,Mumbai
+ORD1099,09-10-2024,Beauty,Perfume,1386,20,1108,4,4432,Debit Card,Kolkata
+ORD1100,11-10-2024,Grocery,Coffee 200g,479,20,383,1,383,Cash on Delivery,Bangalore
+ORD1101,10-10-2024,Beauty,Face Cream,707,40,424,4,1696,UPI,Mumbai
+ORD1102,12-10-2024,Grocery,Rice 5kg,655,30,458,1,458,UPI,Chennai
+ORD1103,13-10-2024,Fashion,Shoes,4386,20,3508,2,7016,Debit Card,Hyderabad
+ORD1104,09-10-2024,Electronics,Headphones,2145,30,1501,4,6004,UPI,Chennai
+ORD1105,11-10-2024,Beauty,Shampoo,405,20,324,5,1620,Debit Card,Chennai
+ORD1106,13-10-2024,Beauty,Face Cream,993,10,893,4,3572,UPI,Mumbai
+ORD1107,11-10-2024,Beauty,Perfume,2298,10,2068,4,8272,UPI,Bangalore
+ORD1108,07-10-2024,Grocery,Coffee 200g,395,30,276,1,276,Credit Card,Kolkata
+ORD1109,08-10-2024,furniture,Chair,2017,40,1210,3,3630,,Delhi
+ORD1110,09-10-2024,Electronics,Smartphone,30387,50,15193,2,30386,Cash on Delivery,Kolkata
+ORD1111,10-10-2024,Beauty,Perfume,3840,20,3072,4,12288,UPI,Jaipur
+ORD1112,12-10-2024,Grocery,Rice 5kg,704,40,422,2,844,Debit Card,Delhi
+ORD1113,12-10-2024,Electronics,Laptop,76160,20,60928,1,60928,Cash on Delivery,Delhi
+ORD1114,13-10-2024,Electronics,Laptop,71925,20,57540,5,287700,Credit Card,Delhi
+ORD1115,08-10-2024,Fashion,Jeans,1604,50,802,1,802,Debit Card,Jaipur
+ORD1116,13-10-2024,Electronics,Headphones,1922,20,1537,1,1537,Debit Card,Jaipur
+ORD1117,07-10-2024,Electronics,Smartphone,63609,40,38165,5,190825,UPI,Hyderabad
+ORD1118,13-10-2024,Electronics,Laptop,106039,20,84831,5,424155,UPI,Hyderabad
+ORD1119,12-10-2024,Electronics,Smartphone,46390,40,27834,4,111336,UPI,Kolkata
+ORD1120,11-10-2024,Furniture,Chair,2038,20,1630,3,4890,Debit Card,Kolkata
+ORD1121,08-10-2024,Electronics,Headphones,3374,50,1687,2,3374,Cash on Delivery,Kolkata
+ORD1122,12-10-2024,Electronics,Laptop,95936,30,67155,3,201465,Debit Card,Mumbai
+ORD1123,11-10-2024,Electronics,Laptop,52656,30,36859,2,73718,UPI,Chennai
+ORD1124,07-10-2024,Beauty,Perfume,1010,30,707,5,3535,Debit Card,Bangalore
+ORD1125,09-10-2024,Fashion,T-Shirt,658,50,329,3,987,UPI,Jaipur
+ORD1126,08-10-2024,Furniture,Bookshelf,8029,50,4014,1,4014,Debit Card,Delhi
+ORD1127,08-10-2024,Grocery,Rice 5kg,435,20,348,5,1740,Cash on Delivery,Delhi
+ORD1128,09-10-2024,Furniture,Chair,4581,40,2748,4,10992,Debit Card,Mumbai
+ORD1129,07-10-2024,Furniture,Chair,1930,20,1544,2,3088,UPI,Hyderabad
+ORD1130,10-10-2024,Beauty,Face Cream,859,20,687,5,3435,UPI,Bangalore
+ORD1131,07-10-2024,Furniture,Bookshelf,5026,10,4523,2,9046,,Chennai
+ORD1132,12-10-2024,Fashion,Jeans,2185,30,1529,1,1529,UPI,Kolkata
+ORD1133,07-10-2024,Fashion,Shoes,4401,10,3960,4,15840,UPI,Kolkata
+ORD1134,07-10-2024,Beauty,Perfume,2456,40,1473,3,4419,UPI,Kolkata
+ORD1135,10-10-2024,Beauty,Perfume,2282,10,2053,4,8212,UPI,Mumbai
+ORD1136,11-10-2024,Grocery,Coffee 200g,373,20,298,3,894,Credit Card,Delhi
+ORD1137,08-10-2024,Grocery,Cooking Oil 5L,902,20,721,1,721,Credit Card,Bangalore
+ORD1138,11-10-2024,Electronics,Smartphone,65649,40,39389,4,157556,Cash on Delivery,Hyderabad
+ORD1139,09-10-2024,Grocery,Rice 5kg,700,10,630,4,2520,Cash on Delivery,Hyderabad
+ORD1140,13-10-2024,Electronics,Laptop,100521,40,60312,1,60312,UPI,Bangalore
+ORD1141,13-10-2024,Electronics,Headphones,9807,40,5884,4,23536,UPI,Kolkata
+ORD1142,07-10-2024,Furniture,Chair,2006,40,1203,1,1203,Debit Card,Hyderabad
+ORD1143,09-10-2024,Beauty,Face Cream,1373,50,686,5,3430,Credit Card,Bangalore
+ORD1144,12-10-2024,Furniture,Chair,4241,10,3816,3,11448,UPI,Chennai
+ORD1145,09-10-2024,Furniture,Chair,4230,10,3807,5,19035,Credit Card,Bangalore
+ORD1146,13-10-2024,Furniture,Bookshelf,3194,30,2235,5,11175,Cash on Delivery,Hyderabad
+ORD1147,09-10-2024,Furniture,Chair,4968,50,2484,3,7452,UPI,Bangalore
+ORD1148,13-10-2024,Beauty,Shampoo,431,20,344,2,688,UPI,Bangalore
+ORD1149,08-10-2024,Furniture,Chair,4258,50,2129,2,4258,Cash on Delivery,Mumbai
+ORD1150,12-10-2024,Fashion,Shoes,5085,10,4576,4,18304,Debit Card,Hyderabad
+ORD1151,08-10-2024,Beauty,Shampoo,746,20,596,3,1788,Cash on Delivery,Jaipur
+ORD1152,13-10-2024,Beauty,Face Cream,1082,50,541,5,2705,Cash on Delivery,Mumbai
+ORD1153,13-10-2024,Electronics,Headphones,9373,30,6561,5,32805,UPI,Hyderabad
+ORD1154,08-10-2024,Fashion,Jeans,2840,50,1420,2,2840,Cash on Delivery,Delhi
+ORD1155,07-10-2024,beauty,Shampoo,605,50,302,3,906,Credit Card,Kolkata
+ORD1156,13-10-2024,Grocery,Rice 5kg,390,10,351,3,1053,Cash on Delivery,Hyderabad
+ORD1157,12-10-2024,Electronics,Smartphone,16245,30,11371,2,22742,Credit Card,Chennai
+ORD1158,13-10-2024,Fashion,Jeans,1499,10,1349,2,2698,Cash on Delivery,Hyderabad
+ORD1159,08-10-2024,beauty,Perfume,2995,10,2695,5,13475,Credit Card,Hyderabad
+ORD1160,11-10-2024,Furniture,Table,6068,10,5461,5,27305,Debit Card,Delhi
+ORD1161,12-10-2024,Electronics,Laptop,101621,10,91458,4,365832,,Bangalore
+ORD1162,09-10-2024,Electronics,Headphones,6947,20,5557,1,5557,Debit Card,Chennai
+ORD1163,13-10-2024,beauty,Perfume,2760,20,2208,2,4416,UPI,Hyderabad
+ORD1164,11-10-2024,fashion,T-Shirt,623,30,436,5,2180,Cash on Delivery,Jaipur
+ORD1165,09-10-2024,Grocery,Cooking Oil 5L,697,30,487,3,1461,UPI,Jaipur
+ORD1166,11-10-2024,Beauty,Face Cream,682,40,409,4,1636,Debit Card,Jaipur
+ORD1167,07-10-2024,Beauty,Perfume,1539,50,769,3,2307,Debit Card,Delhi
+ORD1168,13-10-2024,Beauty,Shampoo,654,30,457,4,1828,UPI,Hyderabad
+ORD1169,08-10-2024,Electronics,Smartphone,58986,40,35391,3,106173,Credit Card,Delhi
+ORD1170,07-10-2024,Fashion,T-Shirt,541,30,378,3,1134,Cash on Delivery,Chennai
+ORD1171,09-10-2024,Grocery,Cooking Oil 5L,757,50,378,2,756,Debit Card,Kolkata
+ORD1172,13-10-2024,Fashion,Jeans,3120,40,1872,5,9360,UPI,Bangalore
+ORD1173,07-10-2024,Grocery,Coffee 200g,451,20,360,1,360,Credit Card,Jaipur
+ORD1174,13-10-2024,Electronics,Headphones,6736,30,4715,1,4715,Debit Card,Bangalore
+ORD1175,08-10-2024,Fashion,Jeans,3083,20,2466,1,2466,Credit Card,Jaipur
+ORD1176,09-10-2024,Furniture,Table,10657,50,5328,2,10656,UPI,Delhi
+ORD1177,07-10-2024,Beauty,Face Cream,1477,10,1329,2,2658,Debit Card,Hyderabad
+ORD1178,13-10-2024,Furniture,Bookshelf,7315,20,5852,2,11704,Cash on Delivery,Chennai
+ORD1179,07-10-2024,Fashion,T-Shirt,630,20,504,3,1512,Debit Card,Jaipur
+ORD1180,12-10-2024,Fashion,Shoes,3980,50,1990,5,9950,UPI,Chennai
+ORD1181,13-10-2024,furniture,Bookshelf,9889,50,4944,3,14832,,Jaipur
+ORD1182,12-10-2024,Furniture,Table,6453,50,3226,4,12904,UPI,Kolkata
+ORD1183,07-10-2024,Fashion,Shoes,4826,30,3378,4,13512,UPI,Hyderabad
+ORD1184,08-10-2024,Grocery,Coffee 200g,273,30,191,3,573,Debit Card,Kolkata
+ORD1185,07-10-2024,Fashion,Jeans,1501,30,1050,4,4200,Credit Card,Mumbai
+ORD1186,13-10-2024,Beauty,Shampoo,363,30,254,5,1270,Debit Card,Mumbai
+ORD1187,08-10-2024,grocery,Cooking Oil 5L,647,10,582,4,2328,Cash on Delivery,Mumbai
+ORD1188,07-10-2024,Furniture,Bookshelf,8009,40,4805,3,14415,UPI,Jaipur
+ORD1189,11-10-2024,Beauty,Face Cream,392,40,235,1,235,Credit Card,Bangalore
+ORD1190,13-10-2024,Furniture,Table,4946,20,3956,1,3956,Cash on Delivery,Bangalore
+ORD1191,07-10-2024,Fashion,T-Shirt,916,50,458,4,1832,UPI,Delhi
+ORD1192,09-10-2024,Beauty,Shampoo,820,50,410,2,820,Debit Card,Chennai
+ORD1193,11-10-2024,Grocery,Coffee 200g,372,50,186,5,930,Cash on Delivery,Hyderabad
+ORD1194,12-10-2024,Electronics,Laptop,116507,30,81554,1,81554,Cash on Delivery,Bangalore
+ORD1195,13-10-2024,electronics,Headphones,9371,20,7496,5,37480,Cash on Delivery,Mumbai
+ORD1196,10-10-2024,Electronics,Smartphone,16241,40,9744,3,29232,Cash on Delivery,Mumbai
+ORD1197,09-10-2024,Beauty,Perfume,3779,10,3401,2,6802,Credit Card,Chennai
+ORD1198,13-10-2024,Fashion,Jeans,3183,30,2228,5,11140,Debit Card,Hyderabad
+ORD1199,09-10-2024,Grocery,Coffee 200g,447,20,357,2,714,Debit Card,Chennai
+ORD1200,11-10-2024,Grocery,Coffee 200g,306,40,183,3,549,Cash on Delivery,Bangalore
+ORD1201,07-10-2024,Electronics,Headphones,7720,40,4632,3,13896,Credit Card,Bangalore
+ORD1202,11-10-2024,Beauty,Perfume,1850,40,1110,2,2220,Credit Card,Jaipur
+ORD1203,08-10-2024,Electronics,Headphones,5420,20,4336,1,4336,Credit Card,Hyderabad
+ORD1204,12-10-2024,Electronics,Headphones,3752,10,3376,5,16880,Credit Card,Kolkata
+ORD1205,11-10-2024,Fashion,Jeans,2315,30,1620,1,1620,UPI,Hyderabad
+ORD1206,10-10-2024,Electronics,Smartphone,42386,20,33908,1,33908,Cash on Delivery,Jaipur
+ORD1207,09-10-2024,Grocery,Rice 5kg,259,30,181,5,905,UPI,Bangalore
+ORD1208,08-10-2024,Fashion,Shoes,5334,30,3733,2,7466,UPI,Bangalore
+ORD1209,11-10-2024,Electronics,Headphones,7023,30,4916,5,24580,Credit Card,Mumbai
+ORD1210,10-10-2024,Furniture,Table,4421,40,2652,1,2652,Credit Card,Mumbai
+ORD1211,12-10-2024,Fashion,Jeans,2093,30,1465,3,4395,UPI,Bangalore
+ORD1212,07-10-2024,Beauty,Face Cream,627,40,376,5,1880,Debit Card,Hyderabad
+ORD1213,11-10-2024,Fashion,T-Shirt,436,40,261,2,522,Cash on Delivery,Hyderabad
+ORD1214,10-10-2024,Furniture,Bookshelf,9263,20,7410,2,14820,UPI,Chennai
+ORD1215,11-10-2024,Electronics,Smartphone,69314,50,34657,5,173285,Credit Card,Chennai
+ORD1216,10-10-2024,Electronics,Headphones,4865,50,2432,4,9728,UPI,Chennai
+ORD1217,07-10-2024,Beauty,Perfume,1036,50,518,4,2072,Debit Card,Hyderabad
+ORD1218,07-10-2024,Furniture,Chair,1871,40,1122,3,3366,UPI,Chennai
+ORD1219,10-10-2024,Electronics,Laptop,93591,20,74872,2,149744,Cash on Delivery,Bangalore
+ORD1220,10-10-2024,Electronics,Headphones,3678,30,2574,1,2574,Credit Card,Chennai
+ORD1221,10-10-2024,Electronics,Smartphone,34553,40,20731,5,103655,Cash on Delivery,Chennai
+ORD1222,08-10-2024,Grocery,Rice 5kg,365,10,328,4,1312,UPI,Mumbai
+ORD1223,11-10-2024,Electronics,Smartphone,63532,10,57178,4,228712,Cash on Delivery,Mumbai
+ORD1224,09-10-2024,Furniture,Table,6836,50,3418,3,10254,Debit Card,Mumbai
+ORD1225,12-10-2024,Beauty,Face Cream,863,10,776,5,3880,Credit Card,Hyderabad
+ORD1226,10-10-2024,Beauty,Perfume,2105,40,1263,4,5052,Credit Card,Bangalore
+ORD1227,11-10-2024,Fashion,Jeans,1591,40,954,1,954,Cash on Delivery,Kolkata
+ORD1228,12-10-2024,Grocery,Coffee 200g,240,40,144,3,432,UPI,Chennai
+ORD1229,08-10-2024,Furniture,Bookshelf,2823,10,2540,2,5080,Credit Card,Kolkata
+ORD1230,11-10-2024,Electronics,Smartphone,27453,10,24707,4,98828,Credit Card,Hyderabad
+ORD1231,09-10-2024,Grocery,Cooking Oil 5L,1379,40,827,5,4135,Debit Card,Bangalore
+ORD1232,11-10-2024,Beauty,Face Cream,716,30,501,3,1503,Cash on Delivery,Delhi
+ORD1233,09-10-2024,Furniture,Bookshelf,8398,40,5038,3,15114,Credit Card,Mumbai
+ORD1234,12-10-2024,Furniture,Bookshelf,8110,30,5677,3,17031,Cash on Delivery,Hyderabad
+ORD1235,12-10-2024,Grocery,Rice 5kg,393,50,196,4,784,Credit Card,Chennai
+ORD1236,11-10-2024,Electronics,Headphones,2294,10,2064,4,8256,Credit Card,Jaipur
+ORD1237,10-10-2024,Beauty,Face Cream,423,50,211,5,1055,,Hyderabad
+ORD1238,13-10-2024,Electronics,Headphones,6001,50,3000,3,9000,UPI,Chennai
+ORD1239,11-10-2024,Fashion,T-Shirt,398,50,199,2,398,Credit Card,Mumbai
+ORD1240,08-10-2024,Beauty,Shampoo,582,40,349,4,1396,Credit Card,Hyderabad
+ORD1241,12-10-2024,Electronics,Smartphone,41560,40,24936,4,99744,,Delhi
+ORD1242,08-10-2024,Beauty,Perfume,2156,50,1078,1,1078,UPI,Mumbai
+ORD1243,13-10-2024,Grocery,Rice 5kg,326,30,228,5,1140,UPI,Mumbai
+ORD1244,13-10-2024,Beauty,Shampoo,506,20,404,5,2020,Credit Card,Chennai
+ORD1245,07-10-2024,Beauty,Perfume,1373,10,1235,5,6175,Debit Card,Delhi
+ORD1246,10-10-2024,Furniture,Bookshelf,5749,30,4024,1,4024,Debit Card,Jaipur
+ORD1247,11-10-2024,Beauty,Shampoo,896,50,448,4,1792,UPI,Jaipur
+ORD1248,07-10-2024,Grocery,Rice 5kg,639,20,511,4,2044,Debit Card,Bangalore
+ORD1249,09-10-2024,Grocery,Rice 5kg,385,10,346,2,692,Cash on Delivery,Kolkata
+ORD1250,10-10-2024,Furniture,Chair,4157,40,2494,1,2494,Debit Card,Kolkata
+ORD1251,09-10-2024,Fashion,Shoes,5768,20,4614,4,18456,Credit Card,Mumbai
+ORD1252,09-10-2024,Beauty,Face Cream,1162,30,813,4,3252,UPI,Bangalore
+ORD1253,10-10-2024,Furniture,Chair,5250,10,4725,2,9450,Debit Card,Delhi
+ORD1254,09-10-2024,Grocery,Cooking Oil 5L,1285,40,771,5,3855,Credit Card,Bangalore
+ORD1255,10-10-2024,Fashion,Jeans,2307,30,1614,4,6456,Credit Card,Bangalore
+ORD1256,10-10-2024,Furniture,Chair,5969,20,4775,5,23875,UPI,Hyderabad
+ORD1257,12-10-2024,Electronics,Laptop,105444,20,84355,3,253065,Credit Card,Bangalore
+ORD1258,07-10-2024,Beauty,Perfume,2762,50,1381,4,5524,Cash on Delivery,Chennai
+ORD1259,12-10-2024,Furniture,Bookshelf,7727,10,6954,1,6954,Credit Card,Hyderabad
+ORD1260,08-10-2024,Beauty,Face Cream,1181,10,1062,1,1062,UPI,Bangalore
+ORD1261,12-10-2024,Furniture,Chair,5151,30,3605,4,14420,Cash on Delivery,Jaipur
+ORD1262,13-10-2024,Electronics,Laptop,53703,30,37592,4,150368,UPI,Delhi
+ORD1263,10-10-2024,Beauty,Shampoo,733,40,439,3,1317,Cash on Delivery,Delhi
+ORD1264,13-10-2024,Electronics,Headphones,3385,10,3046,3,9138,UPI,Hyderabad
+ORD1265,08-10-2024,Fashion,Shoes,2811,30,1967,5,9835,Cash on Delivery,Kolkata
+ORD1266,10-10-2024,Beauty,Face Cream,359,50,179,2,358,Cash on Delivery,Chennai
+ORD1267,08-10-2024,Electronics,Headphones,3167,50,1583,2,3166,Debit Card,Bangalore
+ORD1268,07-10-2024,Furniture,Bookshelf,5067,50,2533,4,10132,Cash on Delivery,Chennai
+ORD1269,08-10-2024,Grocery,Coffee 200g,502,10,451,2,902,Debit Card,Delhi
+ORD1270,08-10-2024,Furniture,Table,9852,50,4926,2,9852,Cash on Delivery,Kolkata
+ORD1271,09-10-2024,Fashion,Shoes,2866,40,1719,3,5157,Credit Card,Mumbai
+ORD1272,12-10-2024,Electronics,Laptop,57895,20,46316,4,185264,Cash on Delivery,Kolkata
+ORD1273,09-10-2024,Fashion,T-Shirt,878,10,790,2,1580,Debit Card,Delhi
+ORD1274,07-10-2024,Furniture,Bookshelf,8828,40,5296,5,26480,UPI,Chennai
+ORD1275,12-10-2024,Furniture,Chair,5115,50,2557,2,5114,Cash on Delivery,Delhi
+ORD1276,07-10-2024,Electronics,Laptop,74447,30,52112,1,52112,Cash on Delivery,Jaipur
+ORD1277,08-10-2024,Furniture,Bookshelf,5372,50,2686,4,10744,Credit Card,Chennai
+ORD1278,12-10-2024,Furniture,Table,11720,30,8204,5,41020,Credit Card,Bangalore
+ORD1279,09-10-2024,Furniture,Bookshelf,9177,10,8259,2,16518,Cash on Delivery,Delhi
+ORD1280,08-10-2024,Fashion,T-Shirt,1028,30,719,2,1438,Cash on Delivery,Kolkata
+ORD1281,09-10-2024,Beauty,Shampoo,848,10,763,4,3052,Debit Card,Hyderabad
+ORD1282,10-10-2024,Electronics,Headphones,9011,30,6307,1,6307,Cash on Delivery,Mumbai
+ORD1283,09-10-2024,Grocery,Cooking Oil 5L,1720,50,860,2,1720,Cash on Delivery,Jaipur
+ORD1284,10-10-2024,Beauty,Shampoo,327,20,261,4,1044,Cash on Delivery,Delhi
+ORD1285,09-10-2024,Grocery,Rice 5kg,530,10,477,3,1431,Debit Card,Delhi
+ORD1286,07-10-2024,Grocery,Coffee 200g,558,20,446,4,1784,,Hyderabad
+ORD1287,07-10-2024,Fashion,Shoes,5145,10,4630,1,4630,Debit Card,Jaipur
+ORD1288,09-10-2024,Electronics,Smartphone,40104,10,36093,1,36093,UPI,Bangalore
+ORD1289,12-10-2024,Fashion,Shoes,2670,10,2403,5,12015,UPI,Chennai
+ORD1290,13-10-2024,Fashion,Jeans,2812,20,2249,1,2249,UPI,Mumbai
+ORD1291,11-10-2024,Beauty,Face Cream,586,20,468,3,1404,UPI,Mumbai
+ORD1292,10-10-2024,Electronics,Headphones,6442,20,5153,5,25765,Credit Card,Hyderabad
+ORD1293,09-10-2024,Fashion,Jeans,2580,10,2322,2,4644,Cash on Delivery,Hyderabad
+ORD1294,12-10-2024,Grocery,Rice 5kg,646,50,323,4,1292,Debit Card,Chennai
+ORD1295,07-10-2024,Electronics,Smartphone,53493,10,48143,1,48143,Debit Card,Mumbai
+ORD1296,10-10-2024,Grocery,Coffee 200g,564,50,282,4,1128,Cash on Delivery,Hyderabad
+ORD1297,08-10-2024,Grocery,Rice 5kg,567,10,510,5,2550,Credit Card,Jaipur
+ORD1298,10-10-2024,Electronics,Laptop,97342,20,77873,1,77873,Credit Card,Delhi
+ORD1299,09-10-2024,Fashion,T-Shirt,312,20,249,1,249,Credit Card,Kolkata
+ORD1300,13-10-2024,Fashion,Jeans,1519,30,1063,1,1063,UPI,Bangalore
+ORD1301,10-10-2024,Furniture,Bookshelf,3131,40,1878,4,7512,Debit Card,Delhi
+ORD1302,13-10-2024,Electronics,Headphones,3389,20,2711,5,13555,UPI,Delhi
+ORD1303,09-10-2024,Beauty,Shampoo,383,10,344,5,1720,Cash on Delivery,Mumbai
+ORD1304,08-10-2024,Electronics,Headphones,7608,10,6847,5,34235,UPI,Mumbai
+ORD1305,10-10-2024,Electronics,Laptop,77002,30,53901,3,161703,,Chennai
+ORD1306,10-10-2024,Grocery,Coffee 200g,518,20,414,4,1656,Debit Card,Chennai
+ORD1307,11-10-2024,Furniture,Chair,2733,10,2459,4,9836,UPI,Mumbai
+ORD1308,08-10-2024,Grocery,Rice 5kg,635,30,444,1,444,Credit Card,Chennai
+ORD1309,11-10-2024,Fashion,Shoes,3792,10,3412,1,3412,Credit Card,Jaipur
+ORD1310,11-10-2024,Electronics,Headphones,3065,50,1532,2,3064,Cash on Delivery,Delhi
+ORD1311,10-10-2024,Fashion,Jeans,2069,30,1448,4,5792,Debit Card,Bangalore
+ORD1312,09-10-2024,Furniture,Chair,2773,10,2495,2,4990,Cash on Delivery,Kolkata
+ORD1313,08-10-2024,Fashion,Jeans,2262,40,1357,3,4071,UPI,Delhi
+ORD1314,08-10-2024,Furniture,Chair,3261,30,2282,2,4564,UPI,Hyderabad
+ORD1315,12-10-2024,Grocery,Cooking Oil 5L,956,10,860,4,3440,Cash on Delivery,Chennai
+ORD1316,13-10-2024,Fashion,T-Shirt,312,10,280,2,560,Credit Card,Mumbai
+ORD1317,12-10-2024,Electronics,Headphones,5740,10,5166,1,5166,UPI,Mumbai
+ORD1318,12-10-2024,Grocery,Rice 5kg,293,40,175,1,175,Credit Card,Chennai
+ORD1319,10-10-2024,beauty,Shampoo,562,20,449,2,898,Debit Card,Bangalore
+ORD1320,07-10-2024,Fashion,Shoes,3917,40,2350,4,9400,Cash on Delivery,Delhi
+ORD1321,11-10-2024,Furniture,Chair,5953,10,5357,4,21428,Debit Card,Kolkata
+ORD1322,08-10-2024,Grocery,Cooking Oil 5L,1153,20,922,1,922,,Chennai
+ORD1323,08-10-2024,Beauty,Perfume,2264,50,1132,2,2264,Credit Card,Delhi
+ORD1324,08-10-2024,Electronics,Smartphone,52728,40,31636,3,94908,Credit Card,Mumbai
+ORD1325,08-10-2024,Furniture,Chair,4380,50,2190,5,10950,Credit Card,Chennai
+ORD1326,08-10-2024,furniture,Table,5876,40,3525,1,3525,UPI,Delhi
+ORD1327,13-10-2024,Grocery,Coffee 200g,303,20,242,3,726,Credit Card,Jaipur
+ORD1328,12-10-2024,Fashion,T-Shirt,1166,50,583,3,1749,UPI,Bangalore
+ORD1329,09-10-2024,Grocery,Cooking Oil 5L,879,20,703,4,2812,Cash on Delivery,Hyderabad
+ORD1330,12-10-2024,Furniture,Table,6657,50,3328,2,6656,Cash on Delivery,Bangalore
+ORD1331,11-10-2024,Furniture,Table,3530,20,2824,5,14120,Debit Card,Jaipur
+ORD1332,12-10-2024,Fashion,Jeans,1318,20,1054,3,3162,Debit Card,Mumbai
+ORD1333,07-10-2024,Grocery,Cooking Oil 5L,623,30,436,2,872,Credit Card,Hyderabad
+ORD1334,10-10-2024,Electronics,Laptop,97438,40,58462,2,116924,Cash on Delivery,Kolkata
+ORD1335,13-10-2024,Furniture,Bookshelf,8711,20,6968,2,13936,Cash on Delivery,Delhi
+ORD1336,07-10-2024,Electronics,Smartphone,37400,20,29920,4,119680,Credit Card,Hyderabad
+ORD1337,08-10-2024,Furniture,Bookshelf,9817,40,5890,1,5890,Cash on Delivery,Hyderabad
+ORD1338,09-10-2024,Grocery,Rice 5kg,444,40,266,5,1330,Debit Card,Hyderabad
+ORD1339,07-10-2024,Furniture,Table,5516,10,4964,3,14892,UPI,Kolkata
+ORD1340,10-10-2024,Fashion,T-Shirt,326,20,260,2,520,Debit Card,Delhi
+ORD1341,09-10-2024,Beauty,Perfume,1885,10,1696,5,8480,Cash on Delivery,Mumbai
+ORD1342,07-10-2024,Grocery,Cooking Oil 5L,1552,30,1086,2,2172,Debit Card,Chennai
+ORD1343,10-10-2024,Grocery,Coffee 200g,411,50,205,2,410,UPI,Jaipur
+ORD1344,13-10-2024,Beauty,Perfume,1765,40,1059,3,3177,UPI,Kolkata
+ORD1345,08-10-2024,Furniture,Bookshelf,7581,20,6064,1,6064,Cash on Delivery,Mumbai
+ORD1346,11-10-2024,Beauty,Shampoo,899,40,539,2,1078,Credit Card,Jaipur
+ORD1347,12-10-2024,Electronics,Smartphone,40434,50,20217,4,80868,Debit Card,Jaipur
+ORD1348,08-10-2024,Furniture,Bookshelf,6780,40,4068,1,4068,Cash on Delivery,Mumbai
+ORD1349,09-10-2024,Electronics,Smartphone,51876,10,46688,3,140064,Debit Card,Kolkata
+ORD1350,10-10-2024,Electronics,Smartphone,33049,40,19829,2,39658,Cash on Delivery,Delhi
+ORD1351,09-10-2024,Beauty,Face Cream,1062,10,955,3,2865,Debit Card,Bangalore
+ORD1352,10-10-2024,Fashion,T-Shirt,607,40,364,3,1092,Debit Card,Hyderabad
+ORD1353,13-10-2024,Beauty,Perfume,2784,50,1392,3,4176,UPI,Chennai
+ORD1354,07-10-2024,Fashion,Shoes,1737,20,1389,2,2778,Credit Card,Jaipur
+ORD1355,07-10-2024,Fashion,Jeans,2508,40,1504,5,7520,Cash on Delivery,Hyderabad
+ORD1356,08-10-2024,Beauty,Shampoo,685,50,342,5,1710,Debit Card,Bangalore
+ORD1357,11-10-2024,Electronics,Laptop,43597,40,26158,1,26158,Credit Card,Jaipur
+ORD1358,13-10-2024,Fashion,Shoes,3193,30,2235,4,8940,UPI,Jaipur
+ORD1359,11-10-2024,Fashion,Shoes,2918,50,1459,1,1459,Credit Card,Bangalore
+ORD1360,10-10-2024,Grocery,Cooking Oil 5L,1371,30,959,4,3836,Debit Card,Mumbai
+ORD1361,12-10-2024,Furniture,Chair,1560,50,780,3,2340,Debit Card,Bangalore
+ORD1362,13-10-2024,Grocery,Cooking Oil 5L,1134,30,793,2,1586,Credit Card,Chennai
+ORD1363,09-10-2024,Furniture,Table,8236,20,6588,1,6588,Cash on Delivery,Bangalore
+ORD1364,11-10-2024,Furniture,Bookshelf,7186,20,5748,3,17244,Credit Card,Hyderabad
+ORD1365,07-10-2024,Grocery,Coffee 200g,353,20,282,5,1410,Credit Card,Bangalore
+ORD1366,12-10-2024,Furniture,Chair,4249,10,3824,2,7648,Debit Card,Mumbai
+ORD1367,07-10-2024,Grocery,Cooking Oil 5L,1799,30,1259,4,5036,UPI,Kolkata
+ORD1368,09-10-2024,Electronics,Laptop,65499,50,32749,1,32749,Cash on Delivery,Chennai
+ORD1369,13-10-2024,Fashion,Jeans,2676,50,1338,4,5352,Credit Card,Bangalore
+ORD1370,13-10-2024,Fashion,Jeans,1237,10,1113,4,4452,Debit Card,Mumbai
+ORD1371,10-10-2024,electronics,Smartphone,55270,40,33162,4,132648,Cash on Delivery,Kolkata
+ORD1372,07-10-2024,Grocery,Rice 5kg,579,50,289,2,578,UPI,Hyderabad
+ORD1373,07-10-2024,Grocery,Cooking Oil 5L,864,10,777,4,3108,Debit Card,Mumbai
+ORD1374,10-10-2024,Furniture,Bookshelf,6793,30,4755,4,19020,Credit Card,Bangalore
+ORD1375,07-10-2024,Beauty,Shampoo,433,20,346,2,692,Credit Card,Hyderabad
+ORD1376,12-10-2024,Electronics,Laptop,73526,50,36763,5,183815,UPI,Chennai
+ORD1377,12-10-2024,Electronics,Laptop,98237,40,58942,1,58942,Debit Card,Kolkata
+ORD1378,13-10-2024,Grocery,Cooking Oil 5L,806,50,403,3,1209,Credit Card,Kolkata
+ORD1379,09-10-2024,Grocery,Rice 5kg,358,40,214,2,428,Credit Card,Jaipur
+ORD1380,12-10-2024,Beauty,Face Cream,628,10,565,5,2825,Cash on Delivery,Mumbai
+ORD1381,13-10-2024,Electronics,Smartphone,69737,50,34868,4,139472,Credit Card,Delhi
+ORD1382,07-10-2024,Grocery,Coffee 200g,318,40,190,3,570,Debit Card,Kolkata
+ORD1383,13-10-2024,grocery,Cooking Oil 5L,1240,40,744,1,744,UPI,Jaipur
+ORD1384,07-10-2024,Fashion,Jeans,2464,40,1478,5,7390,Debit Card,Hyderabad
+ORD1385,13-10-2024,Beauty,Face Cream,856,40,513,4,2052,Cash on Delivery,Hyderabad
+ORD1386,12-10-2024,Fashion,T-Shirt,726,50,363,4,1452,Cash on Delivery,Mumbai
+ORD1387,07-10-2024,Fashion,Jeans,2999,10,2699,4,10796,Cash on Delivery,Delhi
+ORD1388,11-10-2024,Furniture,Bookshelf,7223,50,3611,2,7222,Debit Card,Chennai
+ORD1389,12-10-2024,Fashion,Jeans,2416,40,1449,2,2898,UPI,Delhi
+ORD1390,09-10-2024,Beauty,Shampoo,276,40,165,3,495,Credit Card,Bangalore
+ORD1391,13-10-2024,Beauty,Shampoo,280,40,168,4,672,Cash on Delivery,Delhi
+ORD1392,07-10-2024,Electronics,Smartphone,41439,40,24863,1,24863,UPI,Jaipur
+ORD1393,07-10-2024,Furniture,Bookshelf,4194,40,2516,3,7548,Debit Card,Jaipur
+ORD1394,13-10-2024,furniture,Bookshelf,6375,30,4462,4,17848,UPI,Delhi
+ORD1395,10-10-2024,Grocery,Coffee 200g,467,30,326,1,326,UPI,Mumbai
+ORD1396,10-10-2024,Electronics,Laptop,65679,20,52543,1,52543,Cash on Delivery,Mumbai
+ORD1397,12-10-2024,Beauty,Shampoo,848,50,424,1,424,Cash on Delivery,Kolkata
+ORD1398,13-10-2024,Electronics,Headphones,2295,50,1147,4,4588,Cash on Delivery,Chennai
+ORD1399,10-10-2024,Fashion,T-Shirt,696,50,348,5,1740,Debit Card,Chennai
+ORD1400,08-10-2024,Fashion,Jeans,2629,30,1840,3,5520,Cash on Delivery,Jaipur
+ORD1401,08-10-2024,Furniture,Table,11975,30,8382,5,41910,Credit Card,Mumbai
+ORD1402,07-10-2024,Fashion,Shoes,2956,50,1478,5,7390,Debit Card,Hyderabad
+ORD1403,07-10-2024,beauty,Perfume,3863,50,1931,3,5793,Cash on Delivery,Jaipur
+ORD1404,13-10-2024,Electronics,Smartphone,32496,20,25996,3,77988,Debit Card,Mumbai
+ORD1405,12-10-2024,Furniture,Chair,4438,40,2662,1,2662,Credit Card,Hyderabad
+ORD1406,13-10-2024,Grocery,Coffee 200g,540,10,486,4,1944,Cash on Delivery,Kolkata
+ORD1407,08-10-2024,Electronics,Headphones,5617,20,4493,5,22465,Cash on Delivery,Jaipur
+ORD1408,10-10-2024,Furniture,Bookshelf,8549,50,4274,2,8548,Credit Card,Bangalore
+ORD1409,09-10-2024,Fashion,Shoes,5709,10,5138,4,20552,UPI,Kolkata
+ORD1410,09-10-2024,Grocery,Rice 5kg,588,40,352,2,704,UPI,Mumbai
+ORD1411,12-10-2024,Grocery,Cooking Oil 5L,1772,50,886,3,2658,UPI,Jaipur
+ORD1412,09-10-2024,Electronics,Headphones,4111,40,2466,5,12330,Cash on Delivery,Delhi
+ORD1413,13-10-2024,Grocery,Cooking Oil 5L,1047,50,523,5,2615,Cash on Delivery,Chennai
+ORD1414,12-10-2024,Grocery,Cooking Oil 5L,1092,50,546,5,2730,Credit Card,Delhi
+ORD1415,13-10-2024,Electronics,Laptop,73631,50,36815,3,110445,UPI,Chennai
+ORD1416,08-10-2024,Beauty,Shampoo,503,20,402,3,1206,UPI,Delhi
+ORD1417,11-10-2024,Electronics,Smartphone,58931,20,47144,4,188576,UPI,Mumbai
+ORD1418,09-10-2024,Beauty,Perfume,1095,20,876,1,876,,Hyderabad
+ORD1419,10-10-2024,Grocery,Coffee 200g,236,50,118,2,236,Debit Card,Kolkata
+ORD1420,12-10-2024,Beauty,Perfume,1284,50,642,1,642,UPI,Jaipur
+ORD1421,13-10-2024,Furniture,Chair,3874,30,2711,5,13555,UPI,Bangalore
+ORD1422,10-10-2024,Electronics,Laptop,60489,50,30244,2,60488,Credit Card,Hyderabad
+ORD1423,07-10-2024,Fashion,Jeans,2528,10,2275,5,11375,,Delhi
+ORD1424,13-10-2024,Electronics,Laptop,67532,30,47272,2,94544,Cash on Delivery,Hyderabad
+ORD1425,13-10-2024,Grocery,Rice 5kg,367,20,293,5,1465,UPI,Jaipur
+ORD1426,12-10-2024,Furniture,Chair,3881,10,3492,3,10476,UPI,Mumbai
+ORD1427,10-10-2024,Fashion,T-Shirt,591,50,295,1,295,Credit Card,Bangalore
+ORD1428,09-10-2024,Furniture,Chair,4485,30,3139,4,12556,Credit Card,Delhi
+ORD1429,10-10-2024,Beauty,Face Cream,1036,20,828,3,2484,Cash on Delivery,Kolkata
+ORD1430,12-10-2024,Fashion,Shoes,2171,30,1519,2,3038,Credit Card,Bangalore
+ORD1431,11-10-2024,electronics,Headphones,2011,50,1005,5,5025,Cash on Delivery,Jaipur
+ORD1432,11-10-2024,Furniture,Table,5435,30,3804,4,15216,Credit Card,Jaipur
+ORD1433,08-10-2024,Furniture,Chair,4750,30,3325,5,16625,UPI,Hyderabad
+ORD1434,11-10-2024,Fashion,Shoes,2649,40,1589,2,3178,Credit Card,Chennai
+ORD1435,09-10-2024,beauty,Face Cream,382,20,305,4,1220,Credit Card,Delhi
+ORD1436,09-10-2024,Grocery,Cooking Oil 5L,1561,40,936,1,936,UPI,Hyderabad
+ORD1437,12-10-2024,Grocery,Coffee 200g,334,50,167,5,835,Credit Card,Kolkata
+ORD1438,13-10-2024,Electronics,Headphones,5621,40,3372,2,6744,Cash on Delivery,Bangalore
+ORD1439,07-10-2024,Furniture,Chair,5611,20,4488,4,17952,Credit Card,Mumbai
+ORD1440,09-10-2024,Fashion,Jeans,3465,10,3118,2,6236,Cash on Delivery,Jaipur
+ORD1441,08-10-2024,Fashion,Shoes,2820,40,1692,1,1692,Credit Card,Delhi
+ORD1442,11-10-2024,Electronics,Headphones,3906,10,3515,2,7030,Debit Card,Mumbai
+ORD1443,10-10-2024,Electronics,Headphones,6144,10,5529,2,11058,Cash on Delivery,Chennai
+ORD1444,12-10-2024,Furniture,Chair,2989,50,1494,5,7470,Debit Card,Mumbai
+ORD1445,08-10-2024,Electronics,Smartphone,39786,40,23871,2,47742,UPI,Delhi
+ORD1446,11-10-2024,Fashion,Shoes,2288,20,1830,4,7320,UPI,Jaipur
+ORD1447,13-10-2024,Fashion,Shoes,5917,10,5325,4,21300,,Bangalore
+ORD1448,08-10-2024,Beauty,Face Cream,1017,50,508,5,2540,UPI,Kolkata
+ORD1449,07-10-2024,Electronics,Laptop,118419,50,59209,4,236836,Debit Card,Mumbai
+ORD1450,09-10-2024,Electronics,Headphones,1617,40,970,2,1940,Debit Card,Kolkata
+ORD1451,10-10-2024,Grocery,Coffee 200g,416,50,208,3,624,Debit Card,Hyderabad
+ORD1452,09-10-2024,Beauty,Shampoo,579,50,289,5,1445,Cash on Delivery,Bangalore
+ORD1453,08-10-2024,Fashion,Shoes,2475,20,1980,4,7920,Credit Card,Delhi
+ORD1454,07-10-2024,Furniture,Bookshelf,8107,10,7296,2,14592,Cash on Delivery,Hyderabad
+ORD1455,07-10-2024,Furniture,Table,4444,10,3999,3,11997,Credit Card,Bangalore
+ORD1456,13-10-2024,Beauty,Perfume,3487,50,1743,3,5229,UPI,Jaipur
+ORD1457,08-10-2024,Furniture,Table,6190,10,5571,5,27855,Credit Card,Chennai
+ORD1458,11-10-2024,fashion,T-Shirt,582,40,349,3,1047,Cash on Delivery,Kolkata
+ORD1459,13-10-2024,Electronics,Headphones,6161,50,3080,5,15400,Debit Card,Bangalore
+ORD1460,07-10-2024,Beauty,Perfume,819,30,573,2,1146,Cash on Delivery,Chennai
+ORD1461,10-10-2024,Electronics,Headphones,5722,50,2861,5,14305,Debit Card,Hyderabad
+ORD1462,09-10-2024,Grocery,Cooking Oil 5L,1543,50,771,1,771,Cash on Delivery,Delhi
+ORD1463,13-10-2024,Fashion,Jeans,2689,30,1882,5,9410,UPI,Hyderabad
+ORD1464,11-10-2024,Grocery,Rice 5kg,432,40,259,3,777,Debit Card,Mumbai
+ORD1465,08-10-2024,Fashion,Jeans,1817,20,1453,2,2906,Debit Card,Mumbai
+ORD1466,13-10-2024,fashion,T-Shirt,422,10,379,4,1516,UPI,Jaipur
+ORD1467,13-10-2024,Furniture,Table,11066,50,5533,3,16599,Cash on Delivery,Mumbai
+ORD1468,07-10-2024,Furniture,Chair,1943,50,971,4,3884,Cash on Delivery,Chennai
+ORD1469,07-10-2024,Fashion,Jeans,1493,50,746,4,2984,,Hyderabad
+ORD1470,09-10-2024,Grocery,Cooking Oil 5L,1131,20,904,5,4520,Debit Card,Mumbai
+ORD1471,10-10-2024,Beauty,Face Cream,731,40,438,3,1314,Debit Card,Jaipur
+ORD1472,10-10-2024,Furniture,Bookshelf,4372,10,3934,3,11802,Credit Card,Chennai
+ORD1473,13-10-2024,Fashion,Jeans,1039,20,831,4,3324,Cash on Delivery,Mumbai
+ORD1474,07-10-2024,Beauty,Face Cream,813,50,406,5,2030,UPI,Kolkata
+ORD1475,09-10-2024,Beauty,Perfume,1194,40,716,3,2148,Debit Card,Bangalore
+ORD1476,11-10-2024,Electronics,Laptop,55890,30,39123,5,195615,Credit Card,Chennai
+ORD1477,10-10-2024,Grocery,Cooking Oil 5L,1265,50,632,4,2528,Cash on Delivery,Delhi
+ORD1478,07-10-2024,Fashion,Shoes,4263,40,2557,5,12785,Cash on Delivery,Jaipur
+ORD1479,13-10-2024,Grocery,Coffee 200g,336,50,168,4,672,Debit Card,Kolkata
+ORD1480,08-10-2024,Beauty,Face Cream,642,20,513,1,513,Credit Card,Hyderabad
+ORD1481,10-10-2024,electronics,Smartphone,25938,40,15562,1,15562,UPI,Delhi
+ORD1482,10-10-2024,Electronics,Smartphone,32200,50,16100,2,32200,UPI,Hyderabad
+ORD1483,09-10-2024,Fashion,T-Shirt,839,20,671,1,671,UPI,Hyderabad
+ORD1484,11-10-2024,Furniture,Table,11987,40,7192,2,14384,Credit Card,Chennai
+ORD1485,11-10-2024,Beauty,Perfume,3420,50,1710,3,5130,Debit Card,Kolkata
+ORD1486,13-10-2024,Beauty,Face Cream,618,30,432,1,432,UPI,Chennai
+ORD1487,10-10-2024,Furniture,Chair,5529,40,3317,3,9951,UPI,Jaipur
+ORD1488,08-10-2024,Furniture,Table,6089,40,3653,5,18265,Cash on Delivery,Kolkata
+ORD1489,13-10-2024,Beauty,Shampoo,469,10,422,4,1688,Credit Card,Chennai
+ORD1490,07-10-2024,Grocery,Cooking Oil 5L,1689,30,1182,4,4728,Credit Card,Jaipur
+ORD1491,07-10-2024,Furniture,Table,7458,50,3729,4,14916,Credit Card,Bangalore
+ORD1492,08-10-2024,Grocery,Cooking Oil 5L,856,40,513,1,513,,Delhi
+ORD1493,13-10-2024,Beauty,Face Cream,1249,10,1124,3,3372,UPI,Jaipur
+ORD1494,10-10-2024,Electronics,Headphones,9202,20,7361,2,14722,Debit Card,Jaipur
+ORD1495,12-10-2024,Fashion,Jeans,2814,20,2251,1,2251,Credit Card,Kolkata
+ORD1496,11-10-2024,Beauty,Face Cream,939,30,657,2,1314,UPI,Hyderabad
+ORD1497,10-10-2024,Fashion,Jeans,1213,20,970,1,970,Credit Card,Hyderabad
+ORD1498,11-10-2024,Electronics,Laptop,71862,10,64675,1,64675,Cash on Delivery,Hyderabad
+ORD1499,12-10-2024,Beauty,Shampoo,833,30,583,1,583,UPI,Bangalore
