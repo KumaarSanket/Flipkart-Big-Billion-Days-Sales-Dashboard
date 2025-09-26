@@ -6,7 +6,7 @@ This project features interactive visuals for revenue trends, top products, cate
 ---
 
 ## 📊 Dashboard Preview  
-![Flipkart Sales Dashboard](dashboard.jpg)
+![Flipkart Sales Dashboard](Dashboard.jpg)
 
 ---
 
